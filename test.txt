@@ -1,5 +1,5 @@
 chapter,section,number,en,ja,sja,sen
-1,1,1,
+1,1,1,just (now),たった今[いま],電車[でんしゃ]はたった今[いま]出[で]たとろです.,The train just left
 
 2,1,1
 
