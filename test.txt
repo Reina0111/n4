@@ -11,4 +11,4 @@ chapter,section,number,en,ja,sja,sen
 
 6,1,1
 
-7,1,1
+7,1,1,newspaper company,新聞社[しんぶんしゃ],来月[らいげつ]から東京[とうきょう]の新聞社[しんぶんしゃ]で働[はたら]きます。,"Starting next month, I'll be working at a newspaper company in Tokyo."
