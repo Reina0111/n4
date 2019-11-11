@@ -29,15 +29,15 @@ chapter,section,number,en,ja,sja,sen
 1,1,28,Evening/Last night,ゆうべ,ゆうべ、うちでパーティーをしました,I had a party at my house last night.
 1,1,29,Last night,きのうの晩[ばん],,
 1,1,30,Last night,きのうの夜[よる],,
-1,1,31,,,,
-1,1,32,,,,
-1,1,33,,,,
-1,1,34,,,,
-1,1,35,,,,
-1,1,36,,,,
-1,1,37,,,,
-1,1,38,,,,
-1,1,39,,,,
+1,1,31,Tonight,今夜[こんや],今夜[こんや]はとても寒[さむ]いです,It is very cold tonight
+1,1,32,Tonight,今晩[こんばん],,
+1,1,33,This week,今週[こんしゅう],今週[こんしゅう]は、あまりいそがしくないです,I'm not so busy this week
+1,1,34,This month,今月[こんげつ],今月[こんげつ]、大切[たいせつ]なテストがみつつもあります,I have three important tests this month
+1,1,35,The week after next,再来週[さらいしゅう],来週[らいしゅう]はいそがしいので、再来週[さらいしゅう]会[あ]いましょう,"I'm busy this week, so let's meet the week after next"
+1,1,36,The month after next,再来月[さらいげつ],再来月[さらいげつ]から１年間[ねんかん]ニューヨークへ行[い]きます,I'm going to New York for a year starting from the month after next
+1,1,37,The year after next,再来年[さらいねん],再来年[さらいねん]、この国[くに]でオリンピックがあります,"The year after next, the Olympics will be held in this country"
+1,1,38,The year before last,おととし,日本[にほん]へ来[き]たのはおととしの４[し]月[がつ]です, I came to Japan in April of the year before last
+1,1,39,Every week,毎週[まいしゅう],毎週[まいしゅう]土曜日[どようび]は友[とも]だちとテニスをします,I play tennis with my friend on Saturday every week
 1,1,40,,,,
 1,1,41,,,,
 1,1,42,,,,
