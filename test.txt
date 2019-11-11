@@ -9,7 +9,26 @@ chapter,section,number,en,ja,sja,sen
 1,1,8,This Time;Next time,今度[こんど],今度「こんど」のテストはともむずかった,The test this time was really difficult
 1,1,9,This Time;Next time,今度[こんど],A「今度[こんど]、お酒[さけ]を飲[の]みに行[い]きましょう」<br /> B「ええ、ぜひ」, A: Let's go get drinks next time. B: Yes let's
 1,1,10,Any time,いつでも,A「食事[しょくじ]するなら、いつがいいですか」B[私[わたし]はいつでもいいですよ],"A: Since we're going to have a meal, when would be a good time? B: Any time is okay with me"
-1,1,11
+1,1,11,Some time/Some day,いつか,いつか家族[かぞく]で世界[せかい]旅行[りょこう]をしたです,Some day I would like to travel around the world with my family.
+1,1,12,future ,しょうらい,しょうらい医者[いしゃ]になりたいと思[おも]っています,I would like to be a doctor in the future.
+1,1,13,future,未来[みらい],,
+1,1,14,A long time ago/In the past,むかし,むかし、ここは海[うみ]でした,"In the past, here was an ocean"
+1,1,15,Folk tale,むかし話[ばなし],,
+1,1,16,One day,ある日[ひ],ある日[ひ]、家[いえ]の前[まえ]に黒猫[くろねこ]がいました,"One day, there was a black cat in front of the house"
+1,1,17,One time/at a given time,あるとき,,
+1,1,18,A given person,ある人[ひと],,
+1,1,19,A given town,ある町[まち],,
+1,1,20,A given country,ある国[くに],,
+1,1,21,Daytime,昼間[ひるま],このあたりは昼間[ひるま]は人[ひと]が多[おお]いですか、夜[よる]はしずかです,"This area is full of people during the day, but it is quiet at night"
+1,1,22,Evening,夕方[ゆうがた],夕方[ゆうがた]から強[つよ]い雨[あめ]が降[ふ]るそうです,I heard that there will be heavy rain in the evening.
+1,1,23,Late night,夜中[やなか],毎日[まいにち]、夜中[よなか]まで勉強[べんきょう]しています,I study late into the evening.
+1,1,24,Late at night,真夜中[まよなか],,
+1,1,25,Tomorrow,朝日[あさ],朝日[あす]の午後[ごご]までにメールを送[おく]ってください,Please send the e-mail by noon tomorrow
+1,1,26,Tomorrow,明日[あした],,
+1,1,27,The day before yesterday,あととい,かげをひいて、おとといから熱[ねつ]があります,"I caught a cold, and have had a fever since the day before yesterday" 
+1,1,28,Evening/Last night,ゆうべ,ゆうべ、うちでパーティーをしました,I had a party at my house last night.
+1,1,29,Last night,きのうの晩[ばん],,
+1,1,30,Last night,きのうの夜[よる],,
 
 
 2,1,1
