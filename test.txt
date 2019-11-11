@@ -17,3 +17,12 @@ chapter,section,number,en,ja,sja,sen
 6,1,1
 
 7,1,1,newspaper company,新聞社[しんぶんしゃ],来月[らいげつ]から東京[とうきょう]の新聞社[しんぶんしゃ]で働[はたら]きます。,"Starting next month, I'll be working at a newspaper company in Tokyo."
+7,1,2,TV station,テレビ局[てれびきょく],テレビ局[てれびきょく]の試験[しけん]を受[う]けたいです。,I want to take a test for a TV station.
+7,1,3,radio station,ラジオ局[きょく],,
+7,1,4,"(TV, radio) program, show",番組[ばんぐみ],どんな番組[ばんぐみ]をよく見[み]ていますか。,What kind of shows are you watching?
+7,1,5,news program,ニュース番組[ばんぐみ],,
+7,1,6,sports program,スポーツ番組[ばんぐみ],,
+7,1,7,online news,ネットニュース,毎日[まいにち]、ネットニュースを読[よ]んでいます。,I read online news every day.
+7,1,8,information,情報[じょうほう],インターネットで世界[せかい]の情報[じょうほう]がすぐわかります。,"On the Internet, you can find out world news right now."
+7,1,9,information program,情報番組[じょうほうばんぐみ],,
+7,1,10,data,データ,世界[せかい]のデータを集[あつ]めました。,I gathered data from around the world.
