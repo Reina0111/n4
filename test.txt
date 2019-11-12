@@ -135,9 +135,23 @@ chapter,section,number,en,ja,sja,sen
 7,3,62,prayer,祈[いの]り,,
 7,3,63,sad,かなしい,友[とも]だちが帰国[きこく]して、とてもかなしいです。,"My friend went back to her home country, so I'm very sad."
 7,3,64,lonely,さびしい,日本[にほん]へ来[き]てから1[いっ]か月[げつ]くらいとてもさびしかったです。,I was so lonely for about a month after I came to Japan.
-7,3,65,
-7,3,66,
-7,3,67,
-7,3,68,
-7,3,69,
-7,3,70
+7,3,65,"to cry, to weep",泣[な]く,電車[でんしゃ]で赤[あか]ちゃんが泣[な]いていました。,A baby was crying on the train.
+7,3,66,tear,なみだ,動物[どうぶつ]の映画[えいが]を見[み]て、なみだが出[で]ました。,I saw a movie about animals and cried.
+7,3,67,"worry, unease/worrisome, unseasy",心配[しんぱい]<な / する>,何[なに]も心配[しんぱい]しなくていいですよ。,You don't have to worry about anything.
+7,3,68,"worry, unease/worrisome, unseasy",心配[しんぱい]<な / する>,試験[しけん]に合格[ごうかく]できるかどうか、とても心配[しんぱい]です。,I'm worried about whether I'll be able to pass the test.
+7,3,69,"boring, not interesting",つまらない,その映画[えいが]はつまらなかったです。,That movie was boring.
+7,3,70,disappointment,がっかり<する>,好[す]きだった俳優[はいゆう]が結婚[けっこん]して、がっかりしました。,I was disappointed to hear that an actor I liked got married.
+7,3,71,to give up,あきらめる,何[なに]でもかんたんにあからめてはいけません。You mustn't give up on everything so easily.
+7,3,72,nervousness,きんちょう<する>,きのうのスピーチはとてもきんちょうしました。,I was really nervous during my speech yesterday.
+7,3,73,"embarassing, shameful",はずかしい,かんたんな漢字[かんじ]が読[よ]めなくて、はずかしいです。,I'm embarassed that I can't read simple kanji.
+7,3,74,suprise,びっくり<する>,A「田中[たなか]さんの家[いえ]に1000[いっせん]万円[まんえん]の皿[さら]があるそうですよ。」<br /> B「えー、それはびっくりですね。」,"A: I hear there is a 10,000,000-yen plate at Tanaka-san's house. <br /> B: What? That's a surprise!"
+7,3,75,"to be surprised, to be astonished",おどろく,夜中[よなか]に道[みち]で大[おお]きな声[こえ]がして、おどろきました。,I was surprised by a loud voice on the street in the middle of the night.
+7,3,76,to get angry,怒[おこ]る,父[ちち]は怒[おこ]ると、顔[かお]が赤[あか]くなります。,"When my father gets angry, his fave turns red."
+7,3,77,"mood, feeling",気分[きぶん],早起[早起]きした日[ひ]は気分[きぶん]がいいです。,"On day when I wake up early, my mood is good."
+7,3,78,bad mood,気分[きぶん]が悪[わる]い,けさから気分[きぶん]が悪[わる]いです。,I've been feeling bad since this morning.
+7,3,79,"heart, mind, spirit",心[こころ],体[からだ]も心[こころ]もけんこうです。,My body and my mind are healthy.
+7,3,80,~from one's heart,心[こころ]から～,,
+7,3,81,stress,ストレス,ストレスがない人[ひと]はいません。,There is no one who is without stress.
+7,3,82,
+7,3,83,
+7,3,84,
