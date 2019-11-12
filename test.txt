@@ -93,4 +93,51 @@ chapter,section,number,en,ja,sja,sen
 7,1,20,to be found,見[み]つかる,電車[でんしゃ]にわすれた書類[しょるい]が見[み]つかりました。,I found the documents I left on the train.
 7,1,21,to find,見[み]つける,いなくなった犬[いぬ]を公園[こうえん]で見[み]つけました。,I found the dog that went missing in the park.
 7,1,22,announcement,発表[はっぴょう]<する>,大好[だいす]きな作家[さっか]が新[あたら]しい小説[しょうせつ]を発表[はっぴょう]しました。,My favourite author announced the release of a new novel.
-7,1,23,,,,
+7,1,23,speech,スピーチ<する>,大統領[だいとうりょう]のスピーチはすばらしかったです。,The president's speech was magnificient.
+7,1,24,speech contest,スピーチ大会[たいかい],,
+7,1,25,speech contest,スピーチコンテスト,,
+7,1,26,to be continued,つづく,雨[あめ]の日[ひ]が2週間[しゅうかん]もつづいています。,Rainy days have continued for two weeks.
+7,1,27,to continue,つづける,これからも日本語[にほんご]の勉強[べんきょう]をつづけるつもりです。,I intend to keep studying Japanese from now on.
+7,2,28,promise,約束[やくそく]<する>,友[とも]だちと遊[あそ]びに行[い]く約束[やくそく]をしました。,I promised to go play with my friend.
+7,2,29,to keep (a promise),(約束[やくそく]を)守[まも]る,約束[やくそく]は守[まも]らなければなりません,You must keep your promises.
+7,2,30,to break (a promise),(約束[やくそく]を)やぶる,約束[やくそく]をやぶるのはよくないですよ。,It's not good to break your promises.
+7,2,31,to make it in time,間に合[まにあ]う,タクシーに乗[の]っても、コンサートに間に合[まにあ]いません。,"I won't make it to the concert in time, even if I take a taxi."
+7,2,32,to be late,おくれる,デートに1時間[じかん]もおくれました。,I was an hour late to my date.
+7,2,33,cancellation,キャンセル<する>,台風[たいふう]で旅行[りょこう]をキャンセルしました。,I cancelled my trip due to the typhoon.
+7,2,34,"reason, explanation",わけ,どうして妹[いもうと]が泣[な]いているのか、わけがわかりません。,I don't know why my little sister is crying.
+7,2,35,to invite,さそう,パーティーにマリアさんもさそいましょう。,"Let's invite Maria-san to the party, too"
+7,2,36,invitation,さそい,,
+7,2,37,"notice, communication",れんらく<する>,パーティーの時間[じかん]をみんなにれんらくします。,I'm going to communicate the time of the party to everyone.
+7,2,38,to have a call,(電話[でんわ]が)ある,国[くに]の友[とも]だちから電話[でんわ]がありました。,There was a call from my friend from my home country.
+7,2,39,"meal, dining",食事[しょくじ]<する>,来週[らいしゅう]みんなで食事[しょくじ]しましょう。,Let's have a meal with everyone next week.
+7,2,40,participation,参加[さんか]<する>,来週[らいしゅう]の社員[しゃいん]旅行[りょこう]に参加[さんか]します。,I'm going to participate in the employee trip next week.
+7,2,41,participant,参加[さんか]者[しゃ],,
+7,2,42,"convenience, schedule",都合[つごう],来週[らいしゅう]のみなさんの都合[つごう]を教[おし]えてください。,"Everyone, please tell me your schedules for next week"
+7,2,43,plan,予定[よてい],連休[れんきゅう]には北海道[ほっかいどう]を旅行[りょこう]する予定[よてい]です。,I plan to take a trip to Hokkaido during the extended weekend.
+7,2,44,"itinerary, schedule",予定[よてい]表[ひょう],,
+7,2,45,"partner, opponent, person",相手[あいて],さっきの電話[でんわ]の相手[あいて]は母[はは]です,The person who called just now was my mother.
+7,2,46,play mate,遊[あそ]び相手[あいて],,
+7,2,47,conversation partner,話し相手[はなしあいて],,
+7,2,48,consultation partner,相談[そうだん]相手[あいて],,
+7,2,49,"chance, opportunity",機会[きかい],このごろ、お酒[さけ]を飲[の]む機会[きかい]がふえました。,"Nowadays, I have more opportunities to drink alcohol."
+7,2,50,"chance, opportunity",チャンス,,
+7,3,51,"happy, glad",うれしい,彼[かれ]に指輪[ゆびわ]をもらって、とてもうれしいです。,I was really happy to get a ring from him.
+7,3,52,"to laught, to smile",笑[わら]う,いつも笑[わら]っていれば、いいことがありますよ。,Something good is bound to happen if you're always smiling.
+7,3,53,"laugh, laughter",笑い声[わらいごえ],,
+7,3,54,smiling face,笑顔[えがお],,
+7,3,55,"happiness, fortune/fortunate, happy",しあわせ<な>,しあわせはどんな色[いろ]だと思[おも]いますか。,What color do you think happiness is?
+7,3,56,"happiness, fortune/fortunate, happy",しあわせ<な>,家族[かぞく]みんな、けんこうでしあわせです。,Everyone in my family is in good health and happy.
+7,3,57,"easy, comfortable",楽[らく]な,家[いえ]で休[やす]むのに楽[らく]ないすがほしいです。,I want a comfortable chair to rest in a home.
+7,3,58,"relief/secure, stable",安心[あんしん]<な / する>,なくしたさいふが見[み]つかって、安心[あんしん]しました。,I was relieved to find the walled I had lost.
+7,3,59,"relief/secure, stable",安心[あんしん]<な / する>,友[とも]だちが近[ちか]くに住[す]んでいれば、安心[あんしん]です。,It would be a relief if I had a friend that lived nearby.
+7,3,60,"to believe, to trust",信[しん]じる,彼[かれ]のことばを信[しん]じています。,I believe his words.
+7,3,61,to pray,祈[いの]る,世界[せかい]の平和[へいわ]を祈[いの]っています,I pray for world peace.
+7,3,62,prayer,祈[いの]り,,
+7,3,63,sad,かなしい,友[とも]だちが帰国[きこく]して、とてもかなしいです。,"My friend went back to her home country, so I'm very sad."
+7,3,64,lonely,さびしい,日本[にほん]へ来[き]てから1[いっ]か月[げつ]くらいとてもさびしかったです。,I was so lonely for about a month after I came to Japan.
+7,3,65,
+7,3,66,
+7,3,67,
+7,3,68,
+7,3,69,
+7,3,70
