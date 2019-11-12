@@ -15,7 +15,7 @@ chapter,section,number,en,ja,sja,sen
 1,1,14,A long time ago/In the past,むかし,むかし、ここは海[うみ]でした,"In the past, here was an ocean"
 1,1,15,Folk tale,むかし話[ばなし],,
 1,1,16,One day,ある日[ひ],ある日[ひ]、家[いえ]の前[まえ]に黒猫[くろねこ]がいました,"One day, there was a black cat in front of the house"
-1,1,17,One time/at a given time,あるとき,,
+1,1,17,One time/at a given time,あるとき,,、
 1,1,18,A given person,ある人[ひと],,
 1,1,19,A given town,ある町[まち],,
 1,1,20,A given country,ある国[くに],,
@@ -38,27 +38,27 @@ chapter,section,number,en,ja,sja,sen
 1,1,37,The year after next,再来年[さらいねん],再来年[さらいねん]、この国[くに]でオリンピックがあります,"The year after next, the Olympics will be held in this country"
 1,1,38,The year before last,おととし,日本[にほん]へ来[き]たのはおととしの４[し]月[がつ]です, I came to Japan in April of the year before last
 1,1,39,Every week,毎週[まいしゅう],毎週[まいしゅう]土曜日[どようび]は友[とも]だちとテニスをします,I play tennis with my friend on Saturday every week
-1,1,40,,,,
-1,1,41,,,,
-1,1,42,,,,
-1,1,43,,,,
-1,1,44,,,,
-1,1,45,,,,
-1,1,46,,,,
-1,1,47,,,,
-1,1,48,,,,
-1,1,49,,,,
-1,1,50,,,,
-1,1,51,,,,
-1,1,52,,,,
-1,1,53,,,,
-1,1,54,,,,
-1,1,55,,,,
-1,1,56,,,,
-1,1,57,,,,
-1,1,58,,,,
-1,1,59,,,,
-1,1,60,,,,
+1,1,40,Every month,毎月[まいつき],毎月[まいつき］二十日[はつか]にアルバイト代[だい]がむらえます,I get paid for my part time job on the 20th on every month
+1,1,41,Every year,毎年[まいとし],毎年[まいとし]、クリスッスに国[くに]へ帰[かえ]ります,I return to my country on Christmas of every year
+1,1,42,Weekday,平日[へいじつ],平日[へいじつ]は仕事[しごと]がとてもいそがしいです,I'm very busy at work on weekdays
+1,1,43,Weekend,週末[しゅうまつ],,
+1,1,44,First,最初[さいしょ],最初[さいしょ]にありがとうをおぼえました,I learnt ありがとう first.
+1,1,45,In the middle,最中[さいちゅう],テストの最中[さいちゅう]に教室[きょうしつ]を出[で]てはいけません,Do not leave the classroom during the test
+1,1,46,Last,最後[さいご],このバスは最後[さいご]に東京駅[とうきょうえき]に着[つ]きます,This bus will arrive at Tokyo Station last
+1,1,47,First;before;ahead of,先に[さきに],A「お昼[ひる]ごはんに行[い]きましょう」B「私[わたし]はまだ仕事[しごと]があるので、先[さき]に行[い]ってください」,A:Let's go eat lunch B: I still have some work to do so please go ahead of me
+1,2,48,Husband,夫[おっと],夫[おっと]は毎日[まいにち]おそくまで仕事[しごと]をしています,My husband works late everyday
+1,2,49,My husband,主人[しゅじん],,
+1,2,50,Wife,妻[つま],妻[つま]はカレーは大好[だいす]きです,My wife loves curry
+1,2,51,My wife,家内[かない],,
+1,2,52,Parents,両親[りょうしん],両親[りょうしん]イギリスに住[す]んでいます,My parents live in England
+1,2,53,Son,むすこ,むすこは小学校[しょうがっこう]からサッカーをやっています,my son has been playing soccer since elementary school
+1,2,54,Daughter,むすめ,むすめは勉強[べんきょう]よりスポーツのほうが好[す]きです,My daughter likes sports more than studying
+1,2,55,Child,お子[こ]さん,先生[せんせい]のお子[こ]さんは今中学生[いまちゅうがくせい]ですか,Is your child now a junior high student
+1,2,56,Grandfather,祖父[そふ],祖父[そふ]は州学校[しゅうがっこう]の先生[せんせい]でした,My grandfather was an elementary school teacher
+1,2,57,Grandfather;elderly man,おじいさん,,
+1,2,58,Grandmother,祖母[そぼ],私[わたし]は祖母[そぼ]が大好[だいす]きです,I love my grandmother
+1,2,59,Grandmother,おばあさん,,
+1,2,60,Grandchild,まご,祖父[そふ]と祖母[そぼ]にはまごか８人[にん]います,My grandfather and grandmother have eight grandchildren
 
 
 2,1,1
